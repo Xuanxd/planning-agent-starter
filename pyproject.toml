@@ -1,0 +1,9 @@
+[project]
+name = "planning-agent-starter"
+version = "0.1.0"
+description = "A minimal plan-then-execute agent starter"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 100
